@@ -2,7 +2,7 @@
 # Playlist Clustering Project
 
 ## Summary
-This project explores the potential of using machine learning to automate the creation of music playlists, a task traditionally handled by human curators. The primary goal was to determine if machine learning could create cohesive and personalized playlists by clustering songs based on their audio features. The project utilized K-Means clustering to group songs into distinct clusters, which were then used to generate playlists.
+This project explores the potential of using machine learning to automate the creation of music playlists, a task traditionally handled by human curators. The primary goal was to determine if machine learning could create cohesive and personalized playlists by clustering songs based on their audio features. The project utilized K-Means clustering (After learning about other possibilieties too) to group songs into distinct clusters, which were then used to generate playlists.
 
 ## Languages and Libraries Used
 - **Languages:**
