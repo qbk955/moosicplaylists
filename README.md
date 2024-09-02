@@ -64,9 +64,9 @@ The dataset used in this project was intentionally challenging in two ways: (Whi
 - **Presentation Context**: The accompanying presentation was designed specifically for a Data Science Lead, who is well-versed in the technical aspects of machine learning. As such, the presentation is intentionally descriptive and uses domain-specific terminology to provide a deep dive into the methodologies and decisions made during the project.
 
 ## Some playlists 
-- (https://open.spotify.com/playlist/0HCXVmWEMEliOG7laJq142?si=5aac3c3049d7436a)
-- (https://open.spotify.com/playlist/22zzCz19wth4RQA4PYiDjI?si=992c16c8c2c34e9f)
-- (https://open.spotify.com/playlist/35y3tkkQ1hiZLzbofOGSXU?si=3230d69bd5344c6c)
-- (https://open.spotify.com/playlist/6CzxrYvZGOkWBEOJr2vUCU?si=bfafcdb60afd44a3)
+- https://open.spotify.com/playlist/0HCXVmWEMEliOG7laJq142?si=5aac3c3049d7436a
+- https://open.spotify.com/playlist/22zzCz19wth4RQA4PYiDjI?si=992c16c8c2c34e9f
+- https://open.spotify.com/playlist/35y3tkkQ1hiZLzbofOGSXU?si=3230d69bd5344c6c
+- https://open.spotify.com/playlist/6CzxrYvZGOkWBEOJr2vUCU?si=bfafcdb60afd44a3
 
 
