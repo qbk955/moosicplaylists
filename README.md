@@ -61,7 +61,8 @@ The dataset used in this project was intentionally challenging in two ways: (Whi
 - **Future Work:**
   - The project could be extended by incorporating user feedback loops to continually refine and personalize the playlists. Additionally, exploring other clustering techniques and incorporating more diverse datasets could further enhance the quality of the generated playlists.
     
-- **Presentation Context**: The accompanying presentation was designed specifically for a Data Science Lead, who is well-versed in the technical aspects of machine learning. As such, the presentation is intentionally descriptive and uses domain-specific terminology to provide a deep dive into the methodologies and decisions made during the project.
+## Presentation context
+- The accompanying presentation was designed specifically for a Data Science Lead, who is well-versed in the technical aspects of machine learning. As such, the presentation is intentionally descriptive and uses domain-specific terminology to provide a deep dive into the methodologies and decisions made during the project.
 
 ## Some playlists 
 - https://open.spotify.com/playlist/0HCXVmWEMEliOG7laJq142?si=5aac3c3049d7436a
