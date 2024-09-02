@@ -4,6 +4,14 @@
 ## Summary
 This project explores the potential of using machine learning to automate the creation of music playlists, a task traditionally handled by human curators. The primary goal was to determine if machine learning could create cohesive and personalized playlists by clustering songs based on their audio features. The project utilized K-Means clustering (After learning about other possibilieties too) to group songs into distinct clusters, which were then used to generate playlists.
 
+## Dataset
+The dataset used in this project was intentionally challenging in two ways: (Which we had to find and explore ourselves)
+
+1. **Genre Bias:** The dataset was heavily skewed towards a specific music genre. This was done to test the robustness of the clustering algorithm and to see if it could still identify meaningful clusters despite the lack of genre diversity. The genre bias aimed to push the limits of the model's ability to differentiate songs based on nuanced audio features, rather than relying solely on broad genre distinctions.
+
+2. **Lack of Genre Labels:** The songs in the dataset were not labeled with their genre. This means that the clustering model had to rely entirely on the provided audio features without any genre information. This increased the complexity of the task, as the model had to identify similarities and differences between songs without the guidance of genre classification.
+
+   
 ## Languages and Libraries Used
 - **Languages:**
   - Python
@@ -52,4 +60,5 @@ This project explores the potential of using machine learning to automate the cr
   
 - **Future Work:**
   - The project could be extended by incorporating user feedback loops to continually refine and personalize the playlists. Additionally, exploring other clustering techniques and incorporating more diverse datasets could further enhance the quality of the generated playlists.
+
 
